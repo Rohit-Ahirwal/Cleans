@@ -7,7 +7,7 @@ This script work in both mobile termux as well as computer laptop.
 And do change the name of this file.
 
 ## Work
-This helps you to clear the gludder of folders.
+This helps you to clear the clutter of folders.
 
 Suppose you many files like .doc .docx .pdf .py etc and medias all types file 
 All are on the one place and looking very bad.
@@ -50,7 +50,7 @@ Now go in cloned directory by bellow command.
 ```
 cd Cleans
 ```
-Now we are in cloned directory now copy the main.py file where there you want clear the gludder
+Now we are in cloned directory now copy the main.py file where there you want clear the clutter
 So I am going to my storage downloads folder by bellow command.
 But before do it first give storage permission for termux by bellow command.
 ```
