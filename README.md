@@ -41,7 +41,7 @@ pkg install figlet
 ```
 Figlet installed now clone this respiratory by bellow command.
 ```
-git clone https://github.com/rohit487867/Cleans.git
+git clone https://github.com/Rohit-Ahirwal/Cleans
 ```
 ## Usages
 Now go in cloned directory by bellow command.
