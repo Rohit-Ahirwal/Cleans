@@ -1,8 +1,10 @@
 # Cleans
+![Code like Devil](IMG_Channel.jpg)   
 A script created by Rohit Ahirwal(CEO of Code like Devil)
 For termux and computers
 ## Note
 This script work in both mobile termux as well as computer laptop.
+And do change the name of this file.
 
 ## Work
 This helps you to clear the gludder of folders.
@@ -63,5 +65,6 @@ Now main.py by bellow command.
 python main.py
 ```
 ## Contact
-Join our [Telegram group](https://t.me/CodelikeDevil).    
+Join our [Telegram group](https://t.me/CodelikeDevil). 
+![Code like Devil](IMG_Channel.jpg)   
 Subscribe on [YouTube](https://youtube.com/channel/UCEU1w2bNs4GoAbRQH6WjjFQ).
