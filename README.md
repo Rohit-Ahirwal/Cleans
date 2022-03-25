@@ -63,4 +63,5 @@ Now main.py by bellow command.
 python main.py
 ```
 ## Contact
-Join our [Telegram group]().
+Join our [Telegram group](t.me/CodelikeDevil).
+Subscribe on [YouTube](https://youtube.com/channel/UCEU1w2bNs4GoAbRQH6WjjFQ).
