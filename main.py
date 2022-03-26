@@ -105,3 +105,5 @@ if __name__ == "__main__":
     print(len(programings), 'Programings succesfully cleaned')
     print('')
     print(len(others), 'Others succesfully cleaned')
+    os.system('sleep 5')
+    print('Thanks For using this tool')
