@@ -1,5 +1,6 @@
 # Cleans
-![Code like Devil](IMG_Channel.jpg)   
+![IMG_Channel](https://user-images.githubusercontent.com/62827894/160294140-cf36954a-d978-41ea-b9e0-b67eda96720e.jpg)
+ 
 A script created by Rohit Ahirwal(CEO of Code like Devil)
 For termux and computers
 ## Note
