@@ -1,11 +1,10 @@
 # Cleans
-![IMG_Channel](https://user-images.githubusercontent.com/62827894/160294140-cf36954a-d978-41ea-b9e0-b67eda96720e.jpg)
  
-A script created by Rohit Ahirwal(CEO of Code like Devil)
+A script created by Rohit Ahirwal(CEO of Coders code the life)
 For termux and computers
 ## Note
 This script work in both mobile termux as well as computer laptop.
-And do change the name of this file.
+And don't change the name of this file.
 
 ## Work
 This helps you to clear the clutter of folders.
@@ -65,7 +64,5 @@ Now main.py by bellow command.
 ```
 python main.py
 ```
-## Contact
-Join our [Telegram group](https://t.me/CodelikeDevil). 
-![Code like Devil](IMG_Channel.jpg)   
-Subscribe on [YouTube](https://youtube.com/channel/UCEU1w2bNs4GoAbRQH6WjjFQ).
+## Contact 
+Subscribe on [YouTube](https://youtube.com/@coders108).
