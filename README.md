@@ -1,6 +1,6 @@
 # Cleans
  
-A script created by Rohit Ahirwal(CEO of Coders code the life)
+A script created by Rohit Ahirwal
 For termux and computers
 ## Note
 This script work in both mobile termux as well as computer laptop.
